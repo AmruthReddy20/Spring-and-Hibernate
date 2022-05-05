@@ -1,2 +1,0 @@
-com.springdemo.mvc.HelloWorldController=org.springframework.stereotype.Component
-com.springdemo.mvc.HomeController=org.springframework.stereotype.Component

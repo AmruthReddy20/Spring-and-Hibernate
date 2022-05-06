@@ -1,5 +1,7 @@
 package com.hibernate.demo.entity;
 
+import lombok.Data;
+
 import javax.persistence.*;
 
 @Entity
